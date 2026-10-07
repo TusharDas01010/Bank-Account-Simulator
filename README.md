@@ -173,3 +173,8 @@ Through this project, I practiced:
 This project is part of my 𝐏𝐲𝐭𝐡𝐨𝐧 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐣𝐨𝐮𝐫𝐧𝐞𝐲.
 
 The primary goal is to move beyond basic Python syntax and apply programming concepts to a practical, real-world use case.
+
+---
+𝐃𝐞𝐦𝐨 𝐕𝐢𝐝𝐞𝐨
+
+https://github.com/user-attachments/assets/4d65f5ff-e981-42ec-8322-49facfae83bb
